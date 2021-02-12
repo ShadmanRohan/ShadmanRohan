@@ -1,8 +1,7 @@
-### Hi there 👋
-
 <!--
 **ShadmanRohan/ShadmanRohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Hi 👋. I'm Rohan. I am a computer science grad interested in engineering, research and development. My primary interests span across artificial intelligence, deep learning and statistical analysis. My core skills are **PyTorch and Python**.
+-->
+Hi there👋. I'm Rohan. I am a computer science grad interested in engineering, research and development. My primary interests span across artificial intelligence, deep learning and statistical analysis. My core skills are **PyTorch and Python**.
 
 
 - 🔭 I’m currently working on ...
@@ -13,4 +12,4 @@ Hi 👋. I'm Rohan. I am a computer science grad interested in engineering, rese
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
