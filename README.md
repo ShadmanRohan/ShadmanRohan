@@ -12,7 +12,7 @@ I am a computer science grad interested in engineering, research and development
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning MLOps; 
-- 🤔 My interests are with Deep Learning applications;
+- 🤔 My interests are with applications of Deep Learning;
 - 💼 I pursued a Bachelor's degree in Computer Science & Engineering;
 - 💬 Ask me about anything, I am always happy to help;
 - 📫 Please email via shadmanrohan@gmail.com to reach me.
