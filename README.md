@@ -7,7 +7,7 @@
 
 
 
-I am a computer science grad interested in engineering, research and development. My primary interests span across artificial intelligence, deep learning and statistical analysis. 
+I am a computer science grad interested in engineering, research and development. 
 
 **Talking about Personal Stuffs:**
 
